@@ -1,0 +1,6 @@
+{
+    "require": {
+        "jwilsson/spotify-web-api-php": "^2.11",
+        "phpmailer/phpmailer": "^6.1"
+    }
+}
